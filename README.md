@@ -10,7 +10,7 @@
 - Under 'File' menu, click on 'Options and settings'. Then, click on 'Options'.
 - Under 'Options', click on 'Python scripting'.
 - Under 'Python scripting', set the required 'Python home directory' and the 'Python IDE'. Then, seleck OK.
-![image](https://user-images.githubusercontent.com/49337890/147568142-74a7d289-3d5f-422c-bd7c-4de112b7ee7d.png)
+![image](https://user-images.githubusercontent.com/49337890/147581759-ceb55425-b366-4393-9b5f-7e4c49b004d1.png)
 
 ## Running Python Scripts in Power BI Desktop
 - Open the 'Anaconda Prompt'.
