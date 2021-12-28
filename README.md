@@ -2,7 +2,7 @@
 
 ## Installing Python 
 - Download Python.
-- Install the required Python packages for Power BI by running the following commands in commanad prompt.
+- Install the required Python packages for Power BI by running the following commands in command prompt.
   * Pandas: python -m pip install pandas
   * Matplotlib: python -m pip install matplotlib
 
@@ -15,8 +15,8 @@
 ![image](https://user-images.githubusercontent.com/49337890/147581759-ceb55425-b366-4393-9b5f-7e4c49b004d1.png)
 
 ## Running Python Scripts in Power BI Desktop
-- Open the 'Anaconda Prompt'.
-- Type "Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe" in the 'Anaconda Prompt'. Power BI Desktop opens from the 'Anaconda Prompt'.
+- Open 'Anaconda Prompt'.
+- Type "Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe" in 'Anaconda Prompt'. 'Power BI Desktop' opens from 'Anaconda Prompt'.
 ![image](https://user-images.githubusercontent.com/49337890/147568537-64775d33-35f3-4836-b1d2-eae87a1387b2.png)
 
 ### Importing Data in Power BI Desktop
@@ -32,10 +32,10 @@
 - Go to 'Report' tab from left panel.
 - Go to 'Visualizations' pane from right panel.
 - Under 'Visualizations' pane, click on 'Py' Python visual.
-- Choose the features of the data in the 'Fields' pane from right panel.
+- Choose the features of the data in 'Fields' pane from right panel.
 - 'Python script editor' opens.
 - Run Python script to visualize data in the 'Python script editor'. 
 ![image](https://user-images.githubusercontent.com/49337890/147581067-5cf0ad69-903d-4ab2-9423-03c6fcf170be.png)
 - Plot appears in the 'Report'.
-![image](https://user-images.githubusercontent.com/49337890/147581283-ab89d1d4-b81f-46ff-87bf-83699621f8d7.png)
+![image](https://user-images.githubusercontent.com/49337890/147581283-ab89d1d4-b81f-46ff-87bf-83699621f8d7.png) 
 
