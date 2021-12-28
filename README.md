@@ -2,9 +2,9 @@
 
 ## Installing Python 
 - Download Python.
-- Install the required Python packages for Power BI.
-  -- Pandas
-  -- Matplotlib
+- Install the required Python packages for Power BI by running the following commands in commanad prompt.
+  -- Pandas - python -m pip install pandas
+  -- Matplotlib - python -m pip install matplotlib
 
 ## Enabling Python Scripting in Power BI Desktop
 - Open 'Power BI Desktop'.
