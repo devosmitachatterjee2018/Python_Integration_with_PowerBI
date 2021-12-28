@@ -34,8 +34,8 @@
 - Under 'Visualizations' pane, click on 'Py' Python visual.
 - Choose the features of the data in 'Fields' pane from right panel.
 - 'Python script editor' opens.
-- Run Python script to visualize data in the 'Python script editor'. 
+- Run Python script to visualize data in 'Python script editor'. 
 ![image](https://user-images.githubusercontent.com/49337890/147581067-5cf0ad69-903d-4ab2-9423-03c6fcf170be.png)
-- Plot appears in the 'Report'.
+- Plot appears in 'Report'.
 ![image](https://user-images.githubusercontent.com/49337890/147581283-ab89d1d4-b81f-46ff-87bf-83699621f8d7.png) 
 
