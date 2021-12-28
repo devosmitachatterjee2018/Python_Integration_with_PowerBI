@@ -2,9 +2,11 @@
 
 ## Installing Python 
 - Download Python.
-- Install the required Python packages such as Pandas and Matplotlib.
+- Install the required Python packages for Power BI.
+  -- Pandas
+  -- Matplotlib
 
-## Enabling Python Scripting 
+## Enabling Python Scripting in Power BI Desktop
 - Open 'Power BI Desktop'.
 - Go to 'File' menu.
 - Under 'File' menu, click on 'Options and settings'. Then, click on 'Options'.
@@ -17,7 +19,7 @@
 - Type "Program Files\Microsoft Power BI Desktop\bin\PBIDesktop.exe" in the 'Anaconda Prompt'. Power BI Desktop opens from the 'Anaconda Prompt'.
 ![image](https://user-images.githubusercontent.com/49337890/147568537-64775d33-35f3-4836-b1d2-eae87a1387b2.png)
 
-### Importing Data
+### Importing Data in Power BI Desktop
 - Go to 'Home' menu.
 - Under 'Home' menu, click on 'Get Data'. Then, click on 'More...'.
 - Under 'More...', click on 'Python script'.
@@ -26,7 +28,7 @@
 - 'Navigator' window opens. Click on the data table. Then, select Load.
 ![image](https://user-images.githubusercontent.com/49337890/147578746-9b3dc67c-5f80-460c-8f24-032807d2d5db.png)
 
-### Visualizing Data
+### Visualizing Data in Power BI Desktop
 - Go to 'Report' tab from left panel.
 - Go to 'Visualizations' pane from right panel.
 - Under 'Visualizations' pane, click on 'Py' Python visual.
