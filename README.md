@@ -25,7 +25,7 @@
 - Under **More...**, click on **Python script**.
 - Run Python script to get data. Select **Connect**.
 ![image](https://user-images.githubusercontent.com/49337890/147578131-2f76b68b-b947-4913-8501-667dce4f991f.png)
-- **Navigator** window opens. Click on the data table. Then, select Load.
+- **Navigator** window opens. Click on the data table. Then, select **Load**.
 ![image](https://user-images.githubusercontent.com/49337890/147578746-9b3dc67c-5f80-460c-8f24-032807d2d5db.png)
 
 ### Visualizing Data in Power BI Desktop
