@@ -21,7 +21,7 @@
 
 ### Importing Data in Power BI Desktop
 - Go to **Home** menu.
-- Under **Home** menu, click on **Get Data**. Then, click on **More...**.
+- Under **Home** menu, click on **Get data**. Then, click on **More...**.
 - Under **More...**, click on **Python script**.
 - Run Python script to get data. Select **Connect**.
 ![image](https://user-images.githubusercontent.com/49337890/147578131-2f76b68b-b947-4913-8501-667dce4f991f.png)
@@ -38,4 +38,7 @@
 ![image](https://user-images.githubusercontent.com/49337890/147581067-5cf0ad69-903d-4ab2-9423-03c6fcf170be.png)
 - Plot appears in **Report**.
 ![image](https://user-images.githubusercontent.com/49337890/147581283-ab89d1d4-b81f-46ff-87bf-83699621f8d7.png) 
+
+## Drawbacks of Power BI Desktop
+- Unable to add another dataset from **Get data** to Power BI Desktop when already connected a dataset from Power BI datasets.
 
