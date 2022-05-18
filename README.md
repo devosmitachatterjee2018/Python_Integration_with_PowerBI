@@ -40,5 +40,5 @@
 ![image](https://user-images.githubusercontent.com/49337890/147581283-ab89d1d4-b81f-46ff-87bf-83699621f8d7.png) 
 
 ## Drawbacks of Power BI Desktop
--- Unable to add another dataset from **Get data** to Power BI Desktop when already connected a dataset from Power BI datasets.
+- Unable to add another dataset from **Get data** to Power BI Desktop when already connected a dataset from Power BI datasets.
 
